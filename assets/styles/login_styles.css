@@ -129,7 +129,7 @@ body{
 .right-section{
     width: 41%;
     height: 100dvh;
-    background-image: url(/assets/images/image1.jpeg);
+    background-image: url(../images/image1.jpeg);
     background-size: cover;
     background-position: center;
     opacity: 0.57;
